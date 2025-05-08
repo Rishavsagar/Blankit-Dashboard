@@ -53,6 +53,8 @@ To conduct a comprehensive analysis of blinkit's sales performance, customer sat
 10. Dashboard / Report Development
 11. Insights Generation
 
-![GitHub Logo]([https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png](https://github.com/Rishavsagar/Blankit-Analysis-Dashboard/blob/main/dashboard.png))
+Show waht the dashboard looks like:- ![Alt text](https://github.com/Rishavsagar/Blankit-Analysis-Dashboard/blob/main/dashboard.png)
+Example: ![Dashboard Preview](https://github.com/Rishavsagar/Blankit-Analysis-Dashboard/blob/main/dashboard.png)
+
 
 
