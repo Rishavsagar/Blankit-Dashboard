@@ -40,7 +40,7 @@ To conduct a comprehensive analysis of blinkit's sales performance, customer sat
       Chart Type: Matrix Card.
 
 
-##Steps In Project
+## Steps In Project
 1. Requirement Gathering / Business Requirements
 2. Data Walkthrough
 3. Data Connection
