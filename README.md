@@ -1,4 +1,4 @@
-# Blankit-Analysis-Dashboard
+# Blinkit-Analysis-Dashboard
 ## Business Requirement
 To conduct a comprehensive analysis of blinkit's sales performance, customer satisfaction, and inventory distributaion to identify key insights and opportunaties for using various KPI's and visualization in power BI.  
 ### KPI's Requirement  
