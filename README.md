@@ -54,6 +54,97 @@ To conduct a comprehensive analysis of blinkit's sales performance, customer sat
 11. Insights Generation
 
 Show waht the dashboard looks like:- ![Alt text](https://github.com/Rishavsagar/Blankit-Analysis-Dashboard/blob/main/dashboard.png)
+      
+This dashboard provides a comprehensive view of Blinkit's retail performance, segmented by item type, outlet location, size, fat content, and store type. Below are the key insights derived from the visual elements:      
+      
+📊 KPI Summary            
+| Metric                  | Value   |
+| ----------------------- | ------- |
+| **Total Sales**         | ₹ 1.20M |
+| **Avg. Sales per Item** | ₹ 141   |
+| **No. of Items Sold**   | 8,523   |
+| **Average Rating**      | 3.9 / 5 |
+
+➡️ Interpretation:
+
+      -> The average item performs reasonably well (₹141 per item) in a high-volume environment.
+      -> A 3.9 rating suggests moderate to high customer satisfaction.      
+
+🧪 Fat Content Contribution
+
+Regular Fat items dominate with ₹ 776.32K in sales.      
+Low Fat items contribute ₹ 425.36K.
+      
+➡️ Insight:      
+      
+      -> Although healthier (low-fat) items have a significant share (~35%), regular-fat products still drive the bulk of revenue.      
+      
+🍱 Sales by Item Type      
+      
+Top-selling categories:      
+
+* Fruits & Vegetables: ₹ 0.18M      
+* Snacks: ₹ 0.18M      
+* Household: ₹ 0.14M
+      
+Low performers:            
+* Seafood, Breakfast, Starchy Foods: < ₹ 0.03M each
+      
+➡️ Insight:      
+      
+      ->Focus on expanding high-performing categories and optimizing/retiring underperforming SKUs.      
+
+📍 Sales by Outlet Location Type      
+| Tier   | Sales     | % Contribution |
+| ------ | --------- | -------------- |
+| Tier 3 | ₹ 472.13K | Highest        |
+| Tier 2 | ₹ 393.15K | Medium         |
+| Tier 1 | ₹ 336.40K | Lowest         |
+
+➡️ Insight:      
+      
+      ->Contrary to common expectations, Tier 3 cities outperform Tier 1 in total sales, indicating strong rural demand.
+
+🏪 Outlet Type Breakdown      
+| Outlet Type     | Sales     | Items | Avg Sales | Rating | Visibility |
+| --------------- | --------- | ----- | --------- | ------ | ---------- |
+| Darkstore Type1 | ₹ 787.55K | 5577  | ₹ 141     | 3.9    | 0.06       |
+| Darkstore Type2 | ₹ 131.48K | 928   | ₹ 142     | 3.9    | 0.06       |
+| Grocery Store   | ₹ 151.94K | 1083  | ₹ 140     | 3.9    | 0.10       |
+| Darkstore Type3 | ₹ 130.71K | 935   | ₹ 140     | 3.9    | 0.06       |
+
+➡️ Insight:      
+
+     -> Darkstore Type1 contributes the majority of sales and item count.
+     -> Grocery stores have higher item visibility (0.10), suggesting potential for improving discoverability in dark stores.
+
+🕰️ Outlet Establishment Trend (2012–2022)      
+      
+* Sales peaked in 2018 (₹ 205K).      
+* Initial growth was steady from 2012–2016, followed by a sharp spike and drop.
+         
+➡️ Insight:      
+      
+      ->2018 appears to be a pivotal growth year, possibly due to expansion or marketing. Sales normalized post-2020, likely impacted by external factors (e.g., COVID-19).
+
+🧩 Sales by Outlet Size      
+      
+* High-sized outlets: ₹ 507.90K      
+* Medium-sized outlets: ₹ 248.99K      
+      
+➡️ Insight:      
+      
+      ->Larger outlets drive more sales, indicating economies of scale or better inventory capacity.
+
+✅ Recommendations      
+
+1. Increase promotion of low-fat products in Tier 3 cities.      
+2. Investigate why smaller outlet types (like Type3) have comparable performance to bigger ones.      
+3. Improve item visibility across all dark store types to enhance product discoverability.      
+4. Explore growth levers from 2018 to replicate for future campaigns.      
+5. Consider phasing out or revamping low-performing categories (e.g., seafood, breakfast items).      
+
+
 
 
 
