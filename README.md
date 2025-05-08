@@ -1,4 +1,4 @@
-# Blankit-Analysys
+# Blankit-Analysis-Dashboard
 ## Business Requirement
 To conduct a comprehensive analysis of blinkit's sales performance, customer satisfaction, and inventory distributaion to identify key insights and opportunaties for using various KPI's and visualization in power BI.  
 ### KPI's Requirement  
@@ -38,4 +38,18 @@ To conduct a comprehensive analysis of blinkit's sales performance, customer sat
 #### 6. All Metrices by Outlet Type:  
       Objective: Provide a comprehensive view of all key metrics(Total Sales, Average Sales, Number of items, Average Rating) broken down by different outlet types.
       Chart Type: Matrix Card.
+
+
+##Steps In Project
+1. Requirement Gathering / Business Requirements
+2. Data Walkthrough
+3. Data Connection
+4. Data Cleaning / Quality Check
+5. Data Modeling
+6. Data Processing
+7. DAX Calculations
+8. Dashboard Lay outing
+9. Charts Development and Formatting
+10. Dashboard / Report Development
+11. Insights Generation
 
