@@ -54,7 +54,7 @@ To conduct a comprehensive analysis of blinkit's sales performance, customer sat
 11. Insights Generation
 
 Show waht the dashboard looks like:- ![Alt text](https://github.com/Rishavsagar/Blankit-Analysis-Dashboard/blob/main/dashboard.png)
-Example: ![Dashboard Preview](https://github.com/Rishavsagar/Blankit-Analysis-Dashboard/blob/main/dashboard.png)
+
 
 
 
