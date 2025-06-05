@@ -53,7 +53,7 @@ To conduct a comprehensive analysis of blinkit's sales performance, customer sat
 10. Dashboard / Report Development
 11. Insights Generation
 
-Show waht the dashboard looks like:- ![Alt text](https://github.com/Rishavsagar/Blankit-Analysis-Dashboard/blob/main/dashboard.png)
+Show what the dashboard looks like:- ![Alt text](https://github.com/Rishavsagar/Blankit-Analysis-Dashboard/blob/main/dashboard.png)
       
 This dashboard provides a comprehensive view of Blinkit's retail performance, segmented by item type, outlet location, size, fat content, and store type. Below are the key insights derived from the visual elements:      
       
